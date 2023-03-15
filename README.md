@@ -1,2 +1,2 @@
 # No-show-appointment-analysis
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb) for 1960-2015, including user ratings and revenue.
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
